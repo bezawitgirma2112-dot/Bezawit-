@@ -1,0 +1,41 @@
+🙂:
+Generate multiple-choice questions
+
+🤖 Smallpdf.com:
+Questions:
+1. What does an Operating System do for memory management?
+  A. Keeps track of primary memory
+  B. Manages user accounts
+  C. Controls network connections
+  D. Handles file storage
+
+2. What are the three major file system variants mentioned in the document?
+  A. FAT12, FAT16, FAT32
+  B. NTFS, FAT32, exFAT
+  C. FAT16, exFAT, HFS+
+  D. FAT12, NTFS, ext4
+
+3. What is the purpose of the BIOS?
+  A. Controls basic hardware functionality
+  B. Manages network connections
+  C. Provides user interface
+  D. Stores application software
+
+4. What advantage does a timesharing operating system provide?
+  A. Quick response
+  B. Increased hardware costs
+  C. Limited user access
+  D. Slower processing
+
+5. What type of cable is designed for attaching to RJ45 NIC connectors?
+  A. Unshielded twisted pair (UTP) Ethernet cable
+  B. Coaxial cable
+  C. Fiber optic cable
+  D. HDMI cable
+Answers:
+1. A
+2. A
+3. A
+4. A
+5. A
+
